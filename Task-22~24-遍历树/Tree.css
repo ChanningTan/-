@@ -1,45 +1,78 @@
 
-.container-1{
-    width: 400px;
-    height: 100px;
+.tree{
+    width: 1002px;
+    margin: 0px auto;
+}
+.container-0{
+    width: 1000px;
+    min-height: 400px;
     background-color: #ffffff;
     border: 1px solid #999999;
     margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container-1{
+    min-width: 800px;
+    min-height: 160px;
+    background-color: #ffffff;
+    border: 1px solid #999999;
+    margin: 10px;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 .container-2{
-    width: 180px;
-    height: 80px;
+    min-width: 50px;
+    min-height: 90px;
     background-color: #ffffff;
     border: 1px solid #999999;
+    margin: 10px;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 .container-3{
-    width: 80px;
-    height: 60px;
+    min-width: 80px;
+    min-height: 70px;
     background-color: #ffffff;
     border: 1px solid #999999;
+    margin: 10px;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 .container-4{
     width: 30px;
-    height: 40px;
+    height: 50px;
     background-color: #ffffff;
     border: 1px solid #999999;
+    margin: 10px;
 }
 .selected{
     background: blue;
 }
+.selected-red{
+    background: red;
+}
 
 
+.searchBar{
+    width: 740px;
+    margin: 0px auto;
+}
+.input{
+    /*width: 200px;*/
+    display: inline-block;
+}
+input[type = 'text']{
+    width: 200px;
+    height: 24px;
+    float: left;
+    margin-left: 10px;
+}
 .button{
-    display: block;
     width: 60px;
     height: 30px;
     background-color: #ffffff;
@@ -49,11 +82,16 @@
     line-height: 30px;
     border: 1px solid #999999;
     padding: 0px;
-    margin: 0px auto;
+    margin-left: 10px;
     cursor: pointer;
+    float: left;
 }
 
 
+.log{
+    color: red;
+    text-align: center;
+}
 
 
 
