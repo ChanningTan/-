@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0a61079-32d6-4316-b2f9-1deb569e390c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task 2-22 tree/Tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task 2-22 tree/Tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task 2-22 tree/Tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-22~24-遍历树/Tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-22~24-遍历树/Tree.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Task 2-22 tree/Tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Task 2-22 tree/Tree.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Task 2-22 tree/Tree.css" afterPath="$PROJECT_DIR$/Task-22~24-遍历树/Tree.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="IFE.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,17 +34,17 @@
       <split-first>
         <leaf>
           <file leaf-file-name="Tree.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Task 2-22 tree/Tree.html">
+            <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-159">
-                  <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+                <state relative-caret-position="525">
+                  <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="Tree.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Task 2-22 tree/Tree.css">
+            <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
                   <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -55,22 +58,28 @@
       <split-second>
         <leaf>
           <file leaf-file-name="Tree.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Task 2-22 tree/Tree.css">
+            <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="576">
-                  <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+                <state relative-caret-position="90">
+                  <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="Tree.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Task 2-22 tree/Tree.js">
+            <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="846">
-                  <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+                <state relative-caret-position="576">
+                  <caret line="150" column="33" selection-start-line="150" selection-start-column="33" selection-end-line="150" selection-end-column="33" />
                   <folding>
-                    <element signature="n#!!doc;n#traverse#0" expanded="false" />
+                    <element signature="e#0#45#0" expanded="false" />
+                    <element signature="e#70#715#0" expanded="false" />
+                    <element signature="n#!!block;n#next#0" expanded="false" />
+                    <element signature="n#!!block;n#begin#0;n#!!block;n#traverse#0" expanded="false" />
+                    <element signature="n#!!block;n#search#0;n#!!block;n#traverse#0" expanded="false" />
+                    <element signature="n#!!block;n#getSelected#0;n#!!block;n#option#0" expanded="false" />
+                    <element signature="n#!!block;n#addElement#0;n#!!block;n#option#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -101,6 +110,13 @@
         <option value="$PROJECT_DIR$/Task 2-22 tree/Tree.html" />
         <option value="$PROJECT_DIR$/Task 2-22 tree/Tree.css" />
         <option value="$PROJECT_DIR$/Task 2-22 tree/Tree.js" />
+        <option value="$PROJECT_DIR$/Task-2-树形组建/Tree.css" />
+        <option value="$PROJECT_DIR$/Task-2-树形组建/Tree.html" />
+        <option value="$PROJECT_DIR$/Task-2-树形组建/Tree.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Task-22~24-遍历树/Tree.css" />
+        <option value="$PROJECT_DIR$/Task-22~24-遍历树/Tree.html" />
+        <option value="$PROJECT_DIR$/Task-22~24-遍历树/Tree.js" />
       </list>
     </option>
   </component>
@@ -175,7 +191,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task 2-22 tree" />
+              <option name="myItemId" value="Task-22~24-遍历树" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -252,12 +268,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481773396192</updated>
-      <workItem from="1481773398370" duration="11464000" />
+      <workItem from="1481773398370" duration="30736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11464000" />
+    <option name="totallyTimeSpent" value="30736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -293,32 +309,48 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Task 2-22 tree/Tree.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-159">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="648">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task 2-22 tree/Tree.css">
+    <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
-          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task 2-22 tree/Tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+          <caret line="150" column="33" selection-start-line="150" selection-start-column="33" selection-end-line="150" selection-end-column="33" />
           <folding>
-            <element signature="n#!!doc;n#traverse#0" expanded="false" />
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#70#715#0" expanded="false" />
+            <element signature="n#!!block;n#next#0" expanded="false" />
+            <element signature="n#!!block;n#begin#0;n#!!block;n#traverse#0" expanded="false" />
+            <element signature="n#!!block;n#search#0;n#!!block;n#traverse#0" expanded="false" />
+            <element signature="n#!!block;n#getSelected#0;n#!!block;n#option#0" expanded="false" />
+            <element signature="n#!!block;n#addElement#0;n#!!block;n#option#0" expanded="false" />
           </folding>
         </state>
       </provider>
