@@ -167,6 +167,7 @@ Tree.prototype = {
     //增加节点
     addNode: function (addText) {
         if (addText != ''){
+            this.setShow();
             this.selectedNodes.forEach(function (element) {
                 element.insertAdjacentHTML('beforeEnd', '<div class=""><span class="arrow-0"></span> '+addText+'</div>');
                 element.querySelector('span').classList.remove('arrow-1');
