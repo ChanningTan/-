@@ -74,7 +74,7 @@ Tree.prototype = {
         ele.insertAdjacentHTML('beforeEnd', "<p class = 'log'>"+text+"</p>");
     },
 
-    //展开选中的节点
+    //选中的节点展开到可见
     setShow: function () {
         var firstNode = this.firstNode;
 
