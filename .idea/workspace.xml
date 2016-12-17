@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0a61079-32d6-4316-b2f9-1deb569e390c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-25-树形组件/task25-new.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-25-树形组件/task25.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-25-树形组件/task25.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-25-树形组件/task25错误.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Task-22~24-遍历树/Tree.css" afterPath="$PROJECT_DIR$/Task-22~24/Tree.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Task-22~24-遍历树/Tree.html" afterPath="$PROJECT_DIR$/Task-22~24/Tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Task-22~24-遍历树/Tree.js" afterPath="$PROJECT_DIR$/Task-22~24/Tree.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Task-25-树形组件/task25-new.js" afterPath="$PROJECT_DIR$/Task-25-树形组件/task25-new.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Task-25-树形组件/task25.html" afterPath="$PROJECT_DIR$/Task-25-树形组件/task25.html" />
     </list>
     <ignored path="IFE.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,8 +36,8 @@
           <file leaf-file-name="task25.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="378">
-                  <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+                <state relative-caret-position="486">
+                  <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
                   <folding />
                 </state>
               </provider>
@@ -58,27 +60,28 @@
           <file leaf-file-name="task25-new.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25-new.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="522">
-                  <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+                <state relative-caret-position="216">
+                  <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
                   <folding>
                     <element signature="e#0#45#0" expanded="false" />
                     <element signature="e#70#715#0" expanded="false" />
                     <element signature="e#971#2027#0" expanded="false" />
                     <element signature="e#2081#2166#0" expanded="false" />
-                    <element signature="e#2203#2970#0" expanded="false" />
-                    <element signature="e#3018#3441#0" expanded="false" />
-                    <element signature="e#3472#3713#0" expanded="false" />
-                    <element signature="e#3748#4429#0" expanded="false" />
-                    <element signature="e#4468#5440#0" expanded="false" />
+                    <element signature="e#2208#3124#0" expanded="false" />
+                    <element signature="e#3172#4038#0" expanded="false" />
+                    <element signature="e#4086#4509#0" expanded="false" />
+                    <element signature="e#4551#4792#0" expanded="false" />
+                    <element signature="e#4838#5547#0" expanded="false" />
+                    <element signature="e#5586#6558#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="Tree.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.css">
+            <entry file="file://$PROJECT_DIR$/Task-22~24/Tree.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="237">
+                <state relative-caret-position="1224">
                   <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
                   <folding />
                 </state>
@@ -86,9 +89,9 @@
             </entry>
           </file>
           <file leaf-file-name="Tree.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.js">
+            <entry file="file://$PROJECT_DIR$/Task-22~24/Tree.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="72">
+                <state relative-caret-position="1080">
                   <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="161" selection-end-column="1" />
                   <folding>
                     <element signature="e#0#45#0" expanded="false" />
@@ -130,14 +133,14 @@
         <option value="$PROJECT_DIR$/Task-2-树形组建/Tree.css" />
         <option value="$PROJECT_DIR$/Task-2-树形组建/Tree.html" />
         <option value="$PROJECT_DIR$/Task-2-树形组建/Tree.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Task-22~24-遍历树/Tree.css" />
         <option value="$PROJECT_DIR$/Task-22~24-遍历树/Tree.html" />
         <option value="$PROJECT_DIR$/Task-22~24-遍历树/Tree.js" />
         <option value="$PROJECT_DIR$/Task-25-树形组件/task25.js" />
-        <option value="$PROJECT_DIR$/Task-25-树形组件/task25.html" />
         <option value="$PROJECT_DIR$/Task-25-树形组件/task25.css" />
         <option value="$PROJECT_DIR$/Task-25-树形组件/task25-new.js" />
+        <option value="$PROJECT_DIR$/Task-25-树形组件/task25.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -182,7 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -226,12 +228,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task-22~24-遍历树" />
+              <option name="myItemId" value="Task-22~24" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,12 +314,13 @@
       <updated>1481773396192</updated>
       <workItem from="1481773398370" duration="30921000" />
       <workItem from="1481855414930" duration="1080000" />
-      <workItem from="1481859894540" duration="32304000" />
+      <workItem from="1481859894540" duration="32739000" />
+      <workItem from="1481991718206" duration="5087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64305000" />
+    <option name="totallyTimeSpent" value="69827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -353,11 +357,69 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25-new.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#70#715#0" expanded="false" />
+            <element signature="e#971#2027#0" expanded="false" />
+            <element signature="e#2081#2166#0" expanded="false" />
+            <element signature="e#2208#3124#0" expanded="false" />
+            <element signature="e#3172#4038#0" expanded="false" />
+            <element signature="e#4086#4509#0" expanded="false" />
+            <element signature="e#4551#4792#0" expanded="false" />
+            <element signature="e#4838#5547#0" expanded="false" />
+            <element signature="e#5586#6558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-22~24/Tree.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-22~24/Tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="161" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#70#715#0" expanded="false" />
+            <element signature="n#!!block;n#next#0" expanded="false" />
+            <element signature="n#!!block;n#begin#0;n#!!block;n#traverse#0" expanded="false" />
+            <element signature="n#!!block;n#getSelected#0;n#!!block;n#option#0" expanded="false" />
+            <element signature="n#!!block;n#addElement#0;n#!!block;n#option#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -385,7 +447,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.html">
+    <entry file="file://$PROJECT_DIR$/Task-22~24/Tree.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
           <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
@@ -393,7 +455,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.css">
+    <entry file="file://$PROJECT_DIR$/Task-22~24/Tree.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
@@ -401,7 +463,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.js">
+    <entry file="file://$PROJECT_DIR$/Task-22~24/Tree.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -416,24 +478,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/Task-22~24/Tree.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
+        <state relative-caret-position="1224">
           <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.js">
+    <entry file="file://$PROJECT_DIR$/Task-22~24/Tree.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
+        <state relative-caret-position="1080">
           <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="161" selection-end-column="1" />
           <folding>
             <element signature="e#0#45#0" expanded="false" />
@@ -446,7 +501,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task-22~24-遍历树/Tree.html">
+    <entry file="file://$PROJECT_DIR$/Task-22~24/Tree.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
           <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
@@ -473,29 +528,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25-new.js">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-            <element signature="e#70#715#0" expanded="false" />
-            <element signature="e#971#2027#0" expanded="false" />
-            <element signature="e#2081#2166#0" expanded="false" />
-            <element signature="e#2203#2970#0" expanded="false" />
-            <element signature="e#3018#3441#0" expanded="false" />
-            <element signature="e#3472#3713#0" expanded="false" />
-            <element signature="e#3748#4429#0" expanded="false" />
-            <element signature="e#4468#5440#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="756">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        <state relative-caret-position="486">
+          <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25-new.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#70#715#0" expanded="false" />
+            <element signature="e#971#2027#0" expanded="false" />
+            <element signature="e#2081#2166#0" expanded="false" />
+            <element signature="e#2208#3124#0" expanded="false" />
+            <element signature="e#3172#4038#0" expanded="false" />
+            <element signature="e#4086#4509#0" expanded="false" />
+            <element signature="e#4551#4792#0" expanded="false" />
+            <element signature="e#4838#5547#0" expanded="false" />
+            <element signature="e#5586#6558#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

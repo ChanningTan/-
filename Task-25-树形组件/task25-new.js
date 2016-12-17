@@ -74,10 +74,47 @@ Tree.prototype = {
         ele.insertAdjacentHTML('beforeEnd', "<p class = 'log'>"+text+"</p>");
     },
 
+    //展开选中的节点
+    setShow: function () {
+        var firstNode = this.firstNode;
+
+        function getParents(element) {
+            var node = element,
+                parents = [];
+
+            do {
+                node = node.parentNode;
+                parents.push(node);
+            } while (node != firstNode);
+
+            return parents;
+        }
+
+        this.selectedNodes.forEach(function (element) {
+            getParents(element).forEach(function (element) {
+                var nodes = element.childNodes,
+                    len = nodes.length,
+                    span = element.querySelector('span');
+
+                for (i=0; i<len; i++){
+                    if (nodes.item(i).tagName == 'DIV'){
+                        nodes.item(i).classList.remove('hidden');
+                    }
+                }
+
+                span.classList.remove('arrow-1');
+                span.classList.add('arrow-2');
+            });
+        });
+    },
+
+    //查询节点
     search: function (searchText) {
+        this.selectedNodes = [];
         var find = false;
 
         do {
+            console.log(this.focusNode);
             this.focusNode.classList.remove('selected');
             this.nextNode();
             if(this.focusNode != null && this.focusNode.childNodes.item(1).nodeValue.trim() == searchText){
@@ -93,10 +130,12 @@ Tree.prototype = {
             }
         } while (true);
 
+        this.setShow();
         this.focusNode = this.firstNode;
         this.selectedNodes.forEach(function (element) {
             element.classList.add('selected');
         });
+
     },
 
     //切换选中状态
@@ -115,6 +154,7 @@ Tree.prototype = {
         }
     },
 
+    //删除节点
     deleteNode: function () {
         this.selectedNodes.forEach(function (element) {
             if (element != this.firstNode.firstElementChild){
@@ -124,12 +164,15 @@ Tree.prototype = {
         this.selectedNodes = [];
     },
 
+    //增加节点
     addNode: function (addText) {
         if (addText != ''){
             this.selectedNodes.forEach(function (element) {
                 element.insertAdjacentHTML('beforeEnd', '<div class=""><span class="arrow-0"></span> '+addText+'</div>');
                 element.querySelector('span').classList.remove('arrow-1');
                 element.querySelector('span').classList.add('arrow-2');
+
+                //展开添加节点的项
                 var nodes = element.childNodes,
                     len = nodes.length;
 
@@ -198,6 +241,7 @@ EventUtil.addHandler(add, 'change', function () {
     addText = add.value;
 });
 
+//绑定按钮事件
 EventUtil.addHandler(buttonSearch, 'click', function () {
     tree.search(searchText);
 });
