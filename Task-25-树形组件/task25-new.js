@@ -74,7 +74,7 @@ Tree.prototype = {
         ele.insertAdjacentHTML('beforeEnd', "<p class = 'log'>"+text+"</p>");
     },
 
-    //展开选中的节点
+    //选中的节点展开到可见
     setShow: function () {
         var firstNode = this.firstNode;
 
@@ -167,6 +167,7 @@ Tree.prototype = {
     //增加节点
     addNode: function (addText) {
         if (addText != ''){
+            this.setShow();
             this.selectedNodes.forEach(function (element) {
                 element.insertAdjacentHTML('beforeEnd', '<div class=""><span class="arrow-0"></span> '+addText+'</div>');
                 element.querySelector('span').classList.remove('arrow-1');
