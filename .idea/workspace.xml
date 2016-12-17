@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0a61079-32d6-4316-b2f9-1deb569e390c" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Task-22~24-遍历树/Tree.css" afterPath="$PROJECT_DIR$/Task-22~24/Tree.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Task-22~24-遍历树/Tree.html" afterPath="$PROJECT_DIR$/Task-22~24/Tree.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Task-22~24-遍历树/Tree.js" afterPath="$PROJECT_DIR$/Task-22~24/Tree.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Task-25-树形组件/task25-new.js" afterPath="$PROJECT_DIR$/Task-25-树形组件/task25-new.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Task-25-树形组件/task25.html" afterPath="$PROJECT_DIR$/Task-25-树形组件/task25.html" />
     </list>
     <ignored path="IFE.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,19 +54,17 @@
           <file leaf-file-name="task25-new.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25-new.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="216">
-                  <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+                <state relative-caret-position="1213">
+                  <caret line="176" column="11" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
                   <folding>
                     <element signature="e#0#45#0" expanded="false" />
                     <element signature="e#70#715#0" expanded="false" />
                     <element signature="e#971#2027#0" expanded="false" />
                     <element signature="e#2081#2166#0" expanded="false" />
-                    <element signature="e#2208#3124#0" expanded="false" />
                     <element signature="e#3172#4038#0" expanded="false" />
                     <element signature="e#4086#4509#0" expanded="false" />
                     <element signature="e#4551#4792#0" expanded="false" />
-                    <element signature="e#4838#5547#0" expanded="false" />
-                    <element signature="e#5586#6558#0" expanded="false" />
+                    <element signature="e#5614#6586#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -138,9 +130,9 @@
         <option value="$PROJECT_DIR$/Task-22~24-遍历树/Tree.js" />
         <option value="$PROJECT_DIR$/Task-25-树形组件/task25.js" />
         <option value="$PROJECT_DIR$/Task-25-树形组件/task25.css" />
-        <option value="$PROJECT_DIR$/Task-25-树形组件/task25-new.js" />
         <option value="$PROJECT_DIR$/Task-25-树形组件/task25.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Task-25-树形组件/task25-new.js" />
       </list>
     </option>
   </component>
@@ -315,12 +307,12 @@
       <workItem from="1481773398370" duration="30921000" />
       <workItem from="1481855414930" duration="1080000" />
       <workItem from="1481859894540" duration="32739000" />
-      <workItem from="1481991718206" duration="5087000" />
+      <workItem from="1481991718206" duration="5463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69827000" />
+    <option name="totallyTimeSpent" value="70203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -387,12 +379,10 @@
             <element signature="e#70#715#0" expanded="false" />
             <element signature="e#971#2027#0" expanded="false" />
             <element signature="e#2081#2166#0" expanded="false" />
-            <element signature="e#2208#3124#0" expanded="false" />
             <element signature="e#3172#4038#0" expanded="false" />
             <element signature="e#4086#4509#0" expanded="false" />
             <element signature="e#4551#4792#0" expanded="false" />
-            <element signature="e#4838#5547#0" expanded="false" />
-            <element signature="e#5586#6558#0" expanded="false" />
+            <element signature="e#5614#6586#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -546,19 +536,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25-new.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        <state relative-caret-position="1213">
+          <caret line="176" column="11" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
           <folding>
             <element signature="e#0#45#0" expanded="false" />
             <element signature="e#70#715#0" expanded="false" />
             <element signature="e#971#2027#0" expanded="false" />
             <element signature="e#2081#2166#0" expanded="false" />
-            <element signature="e#2208#3124#0" expanded="false" />
             <element signature="e#3172#4038#0" expanded="false" />
             <element signature="e#4086#4509#0" expanded="false" />
             <element signature="e#4551#4792#0" expanded="false" />
-            <element signature="e#4838#5547#0" expanded="false" />
-            <element signature="e#5586#6558#0" expanded="false" />
+            <element signature="e#5614#6586#0" expanded="false" />
           </folding>
         </state>
       </provider>
