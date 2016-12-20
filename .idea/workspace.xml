@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0a61079-32d6-4316-b2f9-1deb569e390c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-26/Task26.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-26/Task26.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-26/Task26.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-30/Task30.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-30/Task30.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Task-26/Task26.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Task-26/Task26.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Task-26/Task26.css" afterPath="$PROJECT_DIR$/Task-30/Task30.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="IFE.iws" />
@@ -30,11 +32,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Task26.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Task-26/Task26.html">
+          <file leaf-file-name="Task30.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Task-30/Task30.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="324">
-                  <caret line="18" column="51" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="51" />
+                <state relative-caret-position="144">
+                  <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
@@ -44,24 +46,35 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Task26.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Task-26/Task26.css">
+          <file leaf-file-name="Task30.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Task-30/Task30.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="144">
-                  <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+                <state relative-caret-position="1026">
+                  <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Task26.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Task-26/Task26.js">
+          <file leaf-file-name="Task30.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Task-30/Task30.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="324">
-                  <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+                <state relative-caret-position="1062">
+                  <caret line="221" column="0" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#45#0" expanded="false" />
                     <element signature="e#63#708#0" expanded="false" />
+                    <element signature="e#759#1039#0" expanded="false" />
+                    <element signature="e#1084#1297#0" expanded="false" />
+                    <element signature="e#1361#1482#0" expanded="false" />
+                    <element signature="e#1530#1759#0" expanded="false" />
+                    <element signature="e#1808#2056#0" expanded="false" />
+                    <element signature="e#2650#3233#0" expanded="false" />
+                    <element signature="e#3300#3881#0" expanded="false" />
+                    <element signature="e#3950#4453#0" expanded="false" />
+                    <element signature="e#4522#5104#0" expanded="false" />
+                    <element signature="e#5174#5759#0" expanded="false" />
+                    <element signature="e#5824#5930#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -124,9 +137,10 @@
         <option value="$PROJECT_DIR$/Task-25-树形组件/task25.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Task-25-树形组件/task25-new.js" />
-        <option value="$PROJECT_DIR$/Task-26/Task26.css" />
         <option value="$PROJECT_DIR$/Task-26/Task26.html" />
+        <option value="$PROJECT_DIR$/Task-26/Task26.css" />
         <option value="$PROJECT_DIR$/Task-26/Task26.js" />
+        <option value="$PROJECT_DIR$/Task-30/Task30.js" />
       </list>
     </option>
   </component>
@@ -201,7 +215,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task-26" />
+              <option name="myItemId" value="Task-30" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -302,12 +316,12 @@
       <workItem from="1481855414930" duration="1080000" />
       <workItem from="1481859894540" duration="32739000" />
       <workItem from="1481991718206" duration="5855000" />
-      <workItem from="1482119810643" duration="9712000" />
+      <workItem from="1482119810643" duration="16636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80307000" />
+    <option name="totallyTimeSpent" value="87231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -344,7 +358,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -607,29 +621,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task-26/Task26.css">
+    <entry file="file://$PROJECT_DIR$/Task-30/Task30.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-30/Task30.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task-26/Task26.html">
+    <entry file="file://$PROJECT_DIR$/Task-30/Task30.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="51" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task-26/Task26.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        <state relative-caret-position="1062">
+          <caret line="221" column="0" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
           <folding>
             <element signature="e#0#45#0" expanded="false" />
             <element signature="e#63#708#0" expanded="false" />
+            <element signature="e#759#1039#0" expanded="false" />
+            <element signature="e#1084#1297#0" expanded="false" />
+            <element signature="e#1361#1482#0" expanded="false" />
+            <element signature="e#1530#1759#0" expanded="false" />
+            <element signature="e#1808#2056#0" expanded="false" />
+            <element signature="e#2650#3233#0" expanded="false" />
+            <element signature="e#3300#3881#0" expanded="false" />
+            <element signature="e#3950#4453#0" expanded="false" />
+            <element signature="e#4522#5104#0" expanded="false" />
+            <element signature="e#5174#5759#0" expanded="false" />
+            <element signature="e#5824#5930#0" expanded="false" />
           </folding>
         </state>
       </provider>
