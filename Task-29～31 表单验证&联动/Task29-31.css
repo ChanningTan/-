@@ -47,6 +47,21 @@ form p{
     color: #76b856;
 }
 
+.if-school{
+    margin: 14px 0px 0px 80px;
+}
+.if-school label{
+    margin-right: 30px;
+}
+.school-city{
+    width: 100px;
+    margin-top: 10px;
+}
+.school{
+    width: 188px;
+}
+
+
 input[type='submit']{
     width: 46px;
     height: 30px;
@@ -61,7 +76,6 @@ input[type='submit']{
 input[type='submit']:hover{
     background-color: #3a6ca4;
 }
-
 
 
 

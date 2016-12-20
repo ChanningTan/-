@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="Task29-31.css">
+    <script type="text/javascript" src="Task29-31.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <form action="#" name="">
+            <div>
+                <label><i>名称</i><input type="text" name="name"></label>
+                <p class="hidden">必填，长度为4-16个字符</p>
+            </div>
+            <div>
+                <label><i>密码</i><input type="password" name="password"></label>
+                <p class="hidden">必填，长度为4-16个字符</p>
+            </div>
+            <div>
+                <label><i>密码确认</i><input type="password" name="password2"></label>
+                <p class="hidden">再次输入相同密码</p>
+            </div>
+            <div>
+                <label><i>邮箱</i><input type="text" name="email"></label>
+                <p class="hidden">必填，请输入正确邮箱地址</p>
+            </div>
+            <div>
+                <label><i>手机</i><input type="text" name="phone"></label>
+                <p class="hidden">必填，请输入正确手机号</p>
+            </div>
+            <div class="if-school">
+                <label><input type="radio" name="ifSchool" value="1" checked>在校生</label>
+                <label><input type="radio" name="ifSchool" value="0">非在校生</label>
+            </div>
+            <div id="school">
+                <label>
+                    <i>学校</i><select class="school-city" name="schoolCity">
+                        <option>北京</option>
+                        <option>杭州</option>
+                        <option>上海</option>
+                    </select>
+                    <select class="school" name="school">
+                        <option>北京大学</option>
+                        <option>清华大学</option>
+                        <option>中国传媒大学</option>
+                    </select>
+                </label>
+            </div>
+            <div id="company" class="hidden">
+                <label>
+                    <i>就业单位</i><input type="text">
+                </label>
+            </div>
+            <input type="submit">
+        </form>
+    </div>
+</body>
+</html>
