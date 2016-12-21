@@ -1,0 +1,126 @@
+
+
+body{
+    font-size: 14px;
+}
+.hidden{
+    display: none;
+}
+.container{
+    width: 400px;
+    margin: 20px auto;
+}
+
+
+/*--- input text & password -------------------*/
+label i{
+    display: inline-block;
+    width: 60px;
+    text-align: right;
+    font-style: normal;
+    margin-right: 20px;
+}
+input[type='text'], input[type='password']{
+    width: 280px;
+    height: 26px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+input[type='text']:focus, input[type='password']:focus{
+    border-color: #a9cdee;
+}
+form .input-error{
+    border-color: #cc2b23;
+}
+form .input-right{
+    border-color: #76b856;
+}
+
+form p{
+    font-size: 12px;
+    color: #aaaaaa;
+    margin: 6px 80px;
+}
+.info-error{
+    color: #cc2b23;
+}
+.info-right{
+    color: #76b856;
+}
+
+
+/*------ input radio --------------------------*/
+.div-radio{
+    margin: 14px 0px 0px 80px;
+}
+.div-radio label{
+    margin-right: 30px;
+}
+
+
+/*------- select ------------------------------*/
+.select1{
+    width: 100px;
+    margin-top: 10px;
+}
+.select2{
+    width: 188px;
+}
+
+
+/*-------- submit ------------------------------*/
+input[type='submit']{
+    width: 46px;
+    height: 30px;
+    font-size: 12px;
+    color: #ffffff;
+    background-color: #4277b5;
+    border-radius: 4px;
+    border: 1px solid #3a6ca4;
+    margin: 20px 0px 0px 327px;
+    cursor: pointer;
+}
+input[type='submit']:hover{
+    background-color: #3a6ca4;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
