@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0a61079-32d6-4316-b2f9-1deb569e390c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-29～31 表单验证&amp;联动/Task29-31.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-29～31 表单验证&amp;联动/Task29-31.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Task-30/Task30.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Task-30/Task30.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Task-30/Task30.css" afterPath="$PROJECT_DIR$/Task-29～31 表单验证&amp;联动/Task29-31.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-32 表单工厂/Task32.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-32 表单工厂/Task32.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-32 表单工厂/Task32.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task-32 表单工厂/formList.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -33,11 +32,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Task29-31.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Task32.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Task-32 表单工厂/Task32.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="252">
+                  <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Task29-31.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Task-29～31 表单验证&amp;联动/Task29-31.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="882">
-                  <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+                <state relative-caret-position="576">
+                  <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -47,68 +56,55 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Task29-31.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Task-29～31 表单验证&amp;联动/Task29-31.css">
+          <file leaf-file-name="Task32.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Task-32 表单工厂/Task32.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="540">
-                  <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+                <state relative-caret-position="216">
+                  <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Task29-31.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Task-29～31 表单验证&amp;联动/Task29-31.js">
+          <file leaf-file-name="Task32.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Task-32 表单工厂/Task32.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1602">
-                  <caret line="285" column="56" selection-start-line="285" selection-start-column="56" selection-end-line="285" selection-end-column="56" />
+                <state relative-caret-position="612">
+                  <caret line="150" column="0" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#45#0" expanded="false" />
                     <element signature="e#63#708#0" expanded="false" />
-                    <element signature="e#759#1039#0" expanded="false" />
-                    <element signature="e#1084#1297#0" expanded="false" />
-                    <element signature="e#1361#1482#0" expanded="false" />
-                    <element signature="e#1530#1759#0" expanded="false" />
-                    <element signature="e#1808#2056#0" expanded="false" />
-                    <element signature="e#3101#3699#0" expanded="false" />
-                    <element signature="e#3746#4342#0" expanded="false" />
-                    <element signature="e#4402#4858#0" expanded="false" />
-                    <element signature="e#4902#5499#0" expanded="false" />
-                    <element signature="e#5544#6144#0" expanded="false" />
-                    <element signature="e#6218#6490#0" expanded="false" />
-                    <element signature="e#6587#6875#0" expanded="false" />
-                    <element signature="e#6923#7217#0" expanded="false" />
-                    <element signature="e#7280#7315#0" expanded="false" />
-                    <element signature="e#7374#7417#0" expanded="false" />
-                    <element signature="e#7476#7538#0" expanded="false" />
-                    <element signature="e#7598#7660#0" expanded="false" />
-                    <element signature="e#7716#7753#0" expanded="false" />
-                    <element signature="e#7809#7846#0" expanded="false" />
-                    <element signature="e#8069#8212#0" expanded="false" />
-                    <element signature="e#8276#8355#0" expanded="false" />
-                    <element signature="e#8424#8642#0" expanded="false" />
+                    <element signature="e#913#2280#0" expanded="false" />
+                    <element signature="e#2334#3340#0" expanded="false" />
+                    <element signature="e#3395#4265#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="task25-new.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25-new.js">
+          <file leaf-file-name="formList.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Task-32 表单工厂/formList.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="8">
-                  <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="24" selection-end-column="2" />
+                <state relative-caret-position="864">
+                  <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#45#0" expanded="false" />
-                    <element signature="e#70#715#0" expanded="false" />
-                    <element signature="e#971#2027#0" expanded="false" />
-                    <element signature="e#2081#2166#0" expanded="false" />
-                    <element signature="e#2211#3127#0" expanded="false" />
-                    <element signature="e#3175#4041#0" expanded="false" />
-                    <element signature="e#4089#4512#0" expanded="false" />
-                    <element signature="e#4554#4795#0" expanded="false" />
-                    <element signature="e#4841#5578#0" expanded="false" />
-                    <element signature="e#5617#6589#0" expanded="false" />
+                    <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#name#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+                    <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#password#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+                    <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#email#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+                    <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#phone#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+                    <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#ifSchool#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Task29-31.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Task-29～31 表单验证&amp;联动/Task29-31.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -152,11 +148,15 @@
         <option value="$PROJECT_DIR$/Task-26/Task26.css" />
         <option value="$PROJECT_DIR$/Task-26/Task26.js" />
         <option value="$PROJECT_DIR$/Task-30/Task30.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Task-29～31 表单验证/Task30.css" />
         <option value="$PROJECT_DIR$/Task-29～31 表单验证/Task30.html" />
         <option value="$PROJECT_DIR$/Task-29～31 表单验证/Task30.js" />
         <option value="$PROJECT_DIR$/Task-29～31 表单验证&amp;联动/Task29-31.js" />
+        <option value="$PROJECT_DIR$/Task-32 表单工厂/Task32.css" />
+        <option value="$PROJECT_DIR$/Task-32 表单工厂/Task32.html" />
+        <option value="$PROJECT_DIR$/Task-32 表单工厂/Task32.js" />
+        <option value="$PROJECT_DIR$/Task-32 表单工厂/formList.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -201,8 +201,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -218,6 +218,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="IFE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task-32 表单工厂" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -321,6 +335,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a0a61079-32d6-4316-b2f9-1deb569e390c" name="Default" comment="" />
@@ -332,12 +349,13 @@
       <workItem from="1481855414930" duration="1080000" />
       <workItem from="1481859894540" duration="32739000" />
       <workItem from="1481991718206" duration="5855000" />
-      <workItem from="1482119810643" duration="26805000" />
+      <workItem from="1482119810643" duration="30549000" />
+      <workItem from="1482250779709" duration="15913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97400000" />
+    <option name="totallyTimeSpent" value="117057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -374,11 +392,97 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Task-32 表单工厂/Task32.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-29～31 表单验证&amp;联动/Task29-31.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="73" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#63#708#0" expanded="false" />
+            <element signature="e#759#1039#0" expanded="false" />
+            <element signature="e#1084#1297#0" expanded="false" />
+            <element signature="e#1361#1482#0" expanded="false" />
+            <element signature="e#1530#1759#0" expanded="false" />
+            <element signature="e#1808#2056#0" expanded="false" />
+            <element signature="e#3101#3699#0" expanded="false" />
+            <element signature="e#3746#4342#0" expanded="false" />
+            <element signature="e#4402#4858#0" expanded="false" />
+            <element signature="e#4902#5499#0" expanded="false" />
+            <element signature="e#5544#6144#0" expanded="false" />
+            <element signature="e#6218#6490#0" expanded="false" />
+            <element signature="e#6587#6875#0" expanded="false" />
+            <element signature="e#6923#7217#0" expanded="false" />
+            <element signature="e#7280#7315#0" expanded="false" />
+            <element signature="e#7374#7417#0" expanded="false" />
+            <element signature="e#7476#7538#0" expanded="false" />
+            <element signature="e#7598#7660#0" expanded="false" />
+            <element signature="e#7716#7753#0" expanded="false" />
+            <element signature="e#7809#7846#0" expanded="false" />
+            <element signature="e#8069#8212#0" expanded="false" />
+            <element signature="e#8276#8355#0" expanded="false" />
+            <element signature="e#8424#8642#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-32 表单工厂/Task32.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-32 表单工厂/Task32.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#63#708#0" expanded="false" />
+            <element signature="e#913#2280#0" expanded="false" />
+            <element signature="e#2334#3340#0" expanded="false" />
+            <element signature="e#3395#4265#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-32 表单工厂/formList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#name#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#password#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#email#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#phone#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#ifSchool#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-29～31 表单验证&amp;联动/Task29-31.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -613,8 +717,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Task-25-树形组件/task25-new.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="24" selection-end-column="2" />
+        <state relative-caret-position="216">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
           <folding>
             <element signature="e#0#45#0" expanded="false" />
             <element signature="e#70#715#0" expanded="false" />
@@ -632,32 +736,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Task-29～31 表单验证&amp;联动/Task29-31.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        <state relative-caret-position="90">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Task-29～31 表单验证&amp;联动/Task29-31.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+        <state relative-caret-position="576">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/Task-32 表单工厂/Task32.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Task-29～31 表单验证&amp;联动/Task29-31.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1602">
-          <caret line="285" column="56" selection-start-line="285" selection-start-column="56" selection-end-line="285" selection-end-column="56" />
+        <state relative-caret-position="324">
+          <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
           <folding>
             <element signature="e#0#45#0" expanded="false" />
             <element signature="e#63#708#0" expanded="false" />
@@ -684,6 +788,51 @@
             <element signature="e#8276#8355#0" expanded="false" />
             <element signature="e#8424#8642#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-32 表单工厂/Task32.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="150" column="0" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#63#708#0" expanded="false" />
+            <element signature="e#913#2280#0" expanded="false" />
+            <element signature="e#2334#3340#0" expanded="false" />
+            <element signature="e#3395#4265#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-32 表单工厂/formList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#name#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#password#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#email#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#phone#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#test#0;n#test#0;n#!!block;n#ifSchool#0;n#!!block;n#formList#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-32 表单工厂/Task32.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
