@@ -31,6 +31,7 @@ function FloatWindow(floatWindowObject, ShowElement, width, height) {
     this.setWindowHidden(this.body);
     this.setWindowHidden(document.querySelector('.float-window-nav i'));
     this.setWindowHidden(document.querySelector('.cancel'));
+    this.setMove();
 }
 FloatWindow.prototype = {
     constructor: FloatWindow,
@@ -72,6 +73,28 @@ FloatWindow.prototype = {
                 EventUtil.removeHandler(document, 'mousewheel', self.noScrollHandler);
             }
         });
+    },
+
+    //浮窗拖动
+    setMove: function () {
+        var self = this,
+            nav = self.body.querySelector('.float-window-nav'),
+            main = self.body.querySelector('.float-window-main'),
+            x, y;
+
+        function navMove() {
+            main.style.top = (event.clientY - y) + 'px';
+            main.style.left = (event.clientX - x) + 'px';
+        }
+
+        EventUtil.addHandler(nav, 'mousedown', function () {
+            x = event.clientX - main.offsetLeft;
+            y = event.clientY - main.offsetTop;
+            EventUtil.addHandler(self.body, 'mousemove', navMove);
+        });
+        EventUtil.addHandler(document, 'mouseup', function () {
+            EventUtil.removeHandler(self.body, 'mousemove', navMove);
+        })
     }
 };
 
